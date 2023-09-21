@@ -12,4 +12,4 @@ You can find the `show string`{:class='microbitbasic'} block in the `Basic`{:cla
 
 Change the text in the `show string`{:class='microbitbasic'} block to whatever you would like to display.
 
-**Tip:** 💡 You can display the contents of a variable (as long as it is a string). Just drag the variable onto the text in the `show string`{:class='microbitbasic'} block.
+**Tip:** 💡 You can display the contents of a `variable`{:class='microbitvariables'} (as long as it is a string). Just drag the variable onto the text in the `show string`{:class='microbitbasic'} block.
