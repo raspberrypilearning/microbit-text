@@ -1,11 +1,9 @@
-title: default-project-template
+title: Showing text on the LEDs
 hero_image: images/banner.png
 description: default-project-template description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2023-09-21"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
