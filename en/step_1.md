@@ -12,4 +12,4 @@ You can find the `show string`{:class='microbitbasic'} block in the `Basic`{:cla
 
 Change the text in the `show string`{:class='microbitbasic'} block to whatever you would like to display.
 
-**Tip:** 💡 You can display the contents of a <code style="background-color: #DC143C">variable</code> (as long as it is a string). Just drag the variable onto the text in the <code style="background-color: #1e90ff">show string</code> block.
+**Tip:** 💡 You can display the contents of a variable (as long as it is a string). Just drag the variable onto the text in the `show string`{:class='microbitbasic'} block.
