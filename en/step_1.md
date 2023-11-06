@@ -2,7 +2,7 @@ You can display words (called a **string** in computing) on the micro:bit's LEDs
 
 The words will scroll across from right to left.
 
-<img src="images/scrolling-words.gif" alt="The text 'Here are some words' scrolling on the micro:bit simulator's LEDs" width="250"/>
+<img src="images/scrolling-words.gif" alt="The text 'Here are some words' scrolling on the micro:bit simulator's LEDs." width="250"/>
 
 **Tip:** 💡 The words scroll very slowly, so make sure to keep your messages short!
 
