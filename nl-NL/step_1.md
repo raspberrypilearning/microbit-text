@@ -10,6 +10,6 @@ Je kunt het `toon tekens`{:class='microbitbasic'} blok vinden in het `Basis`{:cl
 
 <img src="images/show-string-location.png" alt="The Basic menu, with the 'show string' block highlighted." width="350"/>
 
-Wijzig de tekst in het 'toon tekens' {:class='microbitbasic'} blok naar wat je wilt weergeven.
+Wijzig de tekst in het `toon tekens`{:class='microbitbasic'} blok naar wat je wilt weergeven.
 
 **Tip:** 💡 Je kunt de inhoud weergeven van een `variabele`{:class='microbitvariables'} (zolang het maar een tekst is). Sleep gewoon de variabele naar de tekst in het blok 'toon tekens'{:class='microbitbasic'}.
