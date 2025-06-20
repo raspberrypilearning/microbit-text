@@ -1,0 +1,3 @@
+The text 'Here are some words' scrolling on the micro:bit simulator's LEDs.
+
+The Basic menu, with the 'show string' block highlighted.
