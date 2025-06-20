@@ -1,15 +1,15 @@
-You can display words (called a **string** in computing) on the micro:bit's LEDs.
+Tu peux afficher des mots (appelés **chaîne** en informatique) sur les LED du micro:bit.
 
-The words will scroll across from right to left.
+Les mots défileront de droite à gauche.
 
 <img src="images/scrolling-words.gif" alt="The text 'Here are some words' scrolling on the micro:bit simulator's LEDs." width="250"/>
 
-**Tip:** 💡 The words scroll very slowly, so make sure to keep your messages short!
+**Astuce :** 💡 Les mots défilent très lentement, alors assure-toi de faire des messages courts !
 
-You can find the `show string`{:class='microbitbasic'} block in the `Basic`{:class='microbitbasic'} menu in your Toolbox.
+Tu peux trouver le bloc `afficher texte`{:class='microbitbasic'} dans le menu `Base`{:class='microbitbasic'} dans ta boîte à outils.
 
 <img src="images/show-string-location.png" alt="The Basic menu, with the 'show string' block highlighted." width="350"/>
 
-Change the text in the `show string`{:class='microbitbasic'} block to whatever you would like to display.
+Modifie le texte du bloc `afficher texte`{:class='microbitbasic'} par ce que tu souhaites afficher.
 
-**Tip:** 💡 You can display the contents of a `variable`{:class='microbitvariables'} (as long as it is a string). Just drag the variable onto the text in the `show string`{:class='microbitbasic'} block.
+**Astuce :** 💡 Tu peux afficher le contenu d'une `variable`{:class='microbitvariables'} (à condition qu'il s'agisse d'une chaîne). Fais simplement glisser la variable sur le texte dans le bloc `afficher texte`{:class='microbitbasic'}.
